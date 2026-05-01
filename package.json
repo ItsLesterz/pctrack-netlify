@@ -1,0 +1,14 @@
+{
+  "name": "pctrack-netlify",
+  "version": "1.0.0",
+  "description": "PCTrack - Sistema de mantenimiento de equipos",
+  "scripts": {
+    "dev": "netlify dev"
+  },
+  "dependencies": {
+    "@netlify/functions": "^2.6.0",
+    "@supabase/supabase-js": "^2.39.0",
+    "bcryptjs": "^2.4.3",
+    "jsonwebtoken": "^9.0.2"
+  }
+}
